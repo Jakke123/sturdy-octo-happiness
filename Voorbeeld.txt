@@ -1,0 +1,6 @@
+Dit is een voorbeeld van een lijst met dieren
+Muis
+Arend
+Olifant
+Vos
+Giraf
